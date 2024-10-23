@@ -1,0 +1,13 @@
+[
+    { "campaignId": 101, "name": "Black Friday Sale", "status": "Active" },
+    { "campaignId": 102, "name": "New Year Blast", "status": "Inactive" },
+    { "campaignId": 103, "name": "Summer Discount", "status": "Active" },
+    { "campaignId": 104, "name": "Product Launch 2024", "status": "Active" },
+    { "campaignId": 105, "name": "Valentine's Day Promo", "status": "Inactive" },
+    { "campaignId": 106, "name": "Cyber Monday Deals", "status": "Active" },
+    { "campaignId": 107, "name": "Back to School Offer", "status": "Active" },
+    { "campaignId": 108, "name": "Christmas Giveaway", "status": "Inactive" },
+    { "campaignId": 109, "name": "Easter Special", "status": "Active" },
+    { "campaignId": 110, "name": "Year-End Clearance", "status": "Inactive" }
+  ]
+  

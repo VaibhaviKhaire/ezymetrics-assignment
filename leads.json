@@ -1,0 +1,13 @@
+[
+    { "leadId": 1, "name": "John Doe", "email": "john@example.com", "source": "Google Ads" },
+    { "leadId": 2, "name": "Jane Smith", "email": "jane@example.com", "source": "Facebook" },
+    { "leadId": 3, "name": "Robert Johnson", "email": "robert@gmail.com", "source": "LinkedIn" },
+    { "leadId": 4, "name": "Emily Davis", "email": "emily@gmail.com", "source": "Instagram" },
+    { "leadId": 5, "name": "Michael Brown", "email": "michael@outlook.com", "source": "Email Campaign" },
+    { "leadId": 6, "name": "Sarah Wilson", "email": "sarah@yahoo.com", "source": "Google Ads" },
+    { "leadId": 7, "name": "David Martinez", "email": "david@company.com", "source": "Twitter" },
+    { "leadId": 8, "name": "Laura Garcia", "email": "laura@hotmail.com", "source": "SEO Campaign" },
+    { "leadId": 9, "name": "James Miller", "email": "james@gmail.com", "source": "Facebook" },
+    { "leadId": 10, "name": "Sophia Lee", "email": "sophia@protonmail.com", "source": "LinkedIn" }
+  ]
+  
